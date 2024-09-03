@@ -1,4 +1,4 @@
 # Crear Formularios en Línea (Inline) con Bootstrap 5 
 Tutorial: [https://youtu.be/NarBox1LkYc ](https://blog.nubecolectiva.com/crear-formularios-en-linea-inline-con-bootstrap-5/)
 
-https://github.com/collectivecloudperu/crear-formularios-en-linea-inline-con-bootstrap-5/blob/main/formulario-en-linea-creado-con-bootstrap-5.mp4
+https://github.com/user-attachments/assets/61b3ba6e-e3f5-4f54-89c7-6567d9d1cc03
